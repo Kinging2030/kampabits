@@ -14,9 +14,6 @@ left: 1px;
  
 
 }
-.main{
-
-}
 
 .bod{
     border-radius: 5px;
@@ -34,7 +31,6 @@ color: white;
 border-radius: 5px;
 }
 .c2{color: dodgerblue;
-    text-shadow: ;
     text-emphasis-color: white ;
     text-align: right;
     padding: 0pt;
@@ -107,9 +103,6 @@ float: right;
 }
 *{
     box-sizing: border-box;
-}
-.inputs{
-    
 }
 .d{
     max-width: 500px;
